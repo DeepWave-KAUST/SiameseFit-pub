@@ -8,9 +8,7 @@ This repository is organized as follows:
 
 * :open_file_folder: **asset**: folder containing logo;
 * :open_file_folder: **data**: folder containing Marmousi2 and overthrust models data;
-* :open_file_folder: **utils**: set of common function to run FWI;
 * :open_file_folder: **Model**: containing Siamese network;
-* :open_file_folder: **results**: containing the reconstructed velocity model using SiameseFWI;
 * :open_file_folder: **deepwave-old**: containing the old version of the DeepWave package.
   
 
