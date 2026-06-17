@@ -43,3 +43,18 @@ python setup.py install
 ```
 
 **Disclaimer:** All experiments have been carried on a Intel(R) Xeon(R) CPU @ 2.10GHz equipped with a single NVIDIA GEForce RTX A6000 GPU. Different environment configurations may be required for different combinations of workstation and GPU.
+
+## Cite us 
+```bibtex
+@article{https://doi.org/10.1111/1365-2478.70203,
+author = {Saad, Omar M. and Alkhalifah, Tariq},
+title = {SiameseFit: Latent Seismic Data Comparison for Enhanced Full Waveform Inversion and Cycle-Skipping Mitigation},
+journal = {Geophysical Prospecting},
+volume = {74},
+number = {5},
+pages = {e70203},
+doi = {https://doi.org/10.1111/1365-2478.70203},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.70203},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2478.70203},
+year = {2026}
+}
